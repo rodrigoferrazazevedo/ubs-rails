@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vlr_latitude: 9.99
+  vlr_longitude: 9.99
+  cod_munic: 1
+  cod_cnes: 1
+  nom_estab: MyString
+  dsc_endereco: MyString
+  dsc_bairro: MyString
+  dsc_cidade: MyString
+  dsc_telefone: MyString
+  dsc_estrut_fisic_ambiencia: MyString
+  dsc_adap_defic_fisic_idosos: MyString
+  dsc_equipamentos: MyString
+  dsc_medicamentos: MyString
+
+two:
+  vlr_latitude: 9.99
+  vlr_longitude: 9.99
+  cod_munic: 1
+  cod_cnes: 1
+  nom_estab: MyString
+  dsc_endereco: MyString
+  dsc_bairro: MyString
+  dsc_cidade: MyString
+  dsc_telefone: MyString
+  dsc_estrut_fisic_ambiencia: MyString
+  dsc_adap_defic_fisic_idosos: MyString
+  dsc_equipamentos: MyString
+  dsc_medicamentos: MyString

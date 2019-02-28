@@ -16,6 +16,8 @@ gem 'puma', '~> 3.7'
 gem "nokogiri", ">= 1.8.5"
 gem "rack", ">= 2.0.6"
 gem "loofah", ">= 2.2.3"
+gem "ffi", ">= 1.9.24"
+gem "sprockets", ">= 3.7.2"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
